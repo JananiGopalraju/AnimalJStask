@@ -1,0 +1,17 @@
+body {
+    /* margin: 0 auto; */
+   margin: 1em;
+    border: 1px solid rgb(212, 205, 205);
+    padding: 30px;
+    
+}
+
+#submit{
+    justify-content: center;
+    padding: 10px 20px;
+    color: rgb(46, 44, 44);
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+    
+}
